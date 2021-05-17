@@ -1,0 +1,24 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "PasswordFromKeyVault": "https://mykeyvault-01.vault.azure.net/secrets/Password/0b5c8998559a40b280affcee9846a10f",
+    "jam01storage_STORAGE": "DefaultEndpointsProtocol=https;AccountName=jam01storage;AccountKey=Oje5ge87nRb9/jMjHOcGp38+xZzkLyVbu1Dw0aWA+gQN5BAxAb3RJ5CwyZdTu7CSDXAH8gKJaclAkOFxFzvcrg==",
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "eventhub-10_RootManageSharedAccessKey_EVENTHUB": "Endpoint=sb://eventhub-10.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ASqTBmgwFbKecn11d8Mhb7In+snnkFcJvCK6FBBoato=;EntityPath=eventhub-int01",
+    "REMOTEDEBUGGINGVERSION": "16.0.30709.132",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=8826027f-4e7e-43e6-b812-7f728577250a;IngestionEndpoint=https://southeastasia-0.in.applicationinsights.azure.com/",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "8826027f-4e7e-43e6-b812-7f728577250a",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountjam019426;AccountKey=uZjJ2f4fpo41DZrzLHs8evtmQ/zw/ZeGMIKOHMeIbC0swbjJDMYPM9uQQChjQvAJoJhpGtANDdGiRrKTzFn2dw==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "myfunction-01bff4",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "UsernameFromKeyVault": "https://mykeyvault-01.vault.azure.net/secrets/Username/50a8c4f09acf4d5bb7420c0efe41b672",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountjam019426;AccountKey=uZjJ2f4fpo41DZrzLHs8evtmQ/zw/ZeGMIKOHMeIbC0swbjJDMYPM9uQQChjQvAJoJhpGtANDdGiRrKTzFn2dw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "myfunction-01",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout"
+  }
+}
